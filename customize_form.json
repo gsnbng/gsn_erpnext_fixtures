@@ -1,0 +1,17 @@
+[
+ {
+  "allow_copy": 0, 
+  "default_print_format": null, 
+  "doc_type": null, 
+  "docstatus": 0, 
+  "doctype": "Customize Form", 
+  "fields": [], 
+  "max_attachments": 0, 
+  "modified": null, 
+  "name": "Customize Form", 
+  "search_fields": null, 
+  "sort_field": null, 
+  "sort_order": "ASC", 
+  "title_field": null
+ }
+]
