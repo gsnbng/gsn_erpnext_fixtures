@@ -1,0 +1,56 @@
+[
+ {
+  "docstatus": 0, 
+  "doctype": "Workflow State", 
+  "icon": "question-sign", 
+  "modified": "2016-05-08 14:01:48.661474", 
+  "name": "Pending", 
+  "style": "", 
+  "workflow_state_name": "Pending"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Workflow State", 
+  "icon": "ok-sign", 
+  "modified": "2016-05-08 14:01:48.662976", 
+  "name": "Approved", 
+  "style": "Success", 
+  "workflow_state_name": "Approved"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Workflow State", 
+  "icon": "remove", 
+  "modified": "2016-05-08 14:01:48.752587", 
+  "name": "Rejected", 
+  "style": "Danger", 
+  "workflow_state_name": "Rejected"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Workflow State", 
+  "icon": "", 
+  "modified": "2016-06-04 15:35:25.493865", 
+  "name": "Created", 
+  "style": "Primary", 
+  "workflow_state_name": "Created"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Workflow State", 
+  "icon": "", 
+  "modified": "2016-06-16 10:32:06.635328", 
+  "name": "Released", 
+  "style": "Success", 
+  "workflow_state_name": "Released"
+ }, 
+ {
+  "docstatus": 0, 
+  "doctype": "Workflow State", 
+  "icon": "", 
+  "modified": "2016-11-14 18:32:09.156854", 
+  "name": "Cancelled", 
+  "style": "", 
+  "workflow_state_name": "Cancelled"
+ }
+]

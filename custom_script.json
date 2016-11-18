@@ -3,9 +3,9 @@
   "docstatus": 0, 
   "doctype": "Custom Script", 
   "dt": "Salary Slip", 
-  "modified": "2016-08-20 20:13:36.305919", 
+  "modified": "2016-08-20 18:08:46.625621", 
   "name": "Salary Slip-Client", 
-  "script": "cur_frm.add_fetch('employee', 'esi_no', 'esi_no');\ncur_frm.add_fetch('employee', 'epf_no', 'epf_no');\ncur_frm.add_fetch('employee', 'aadhar_no', 'aadhar_no');", 
+  "script": "cur_frm.add_fetch(\"employee\", \"esi_no\", \"esi_no\");\ncur_frm.add_fetch(\"employee\", \"epf_no\", \"epf_no\");\ncur_frm.add_fetch(\"employee\", \"aadhar_no\", \"aadhar_no\");\ncur_frm.add_fetch(\"employee\", \"date_of_joining\", \"date_of_joining\");\n", 
   "script_type": "Client"
  }
 ]
