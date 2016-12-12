@@ -1,0 +1,3 @@
+@frappe.whitelist()
+def call_me():
+  msgprint("call me")
